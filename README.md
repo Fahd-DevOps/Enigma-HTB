@@ -1,2 +1,0 @@
-# Enigma-HTB
-HackTheBox — Enigma
